@@ -61,6 +61,8 @@ What are the main reasons for traffic fatalities?
 What percent of fatalities occurred when seatbelts were worn?
 
 •	More fatalities occurred when seatbelts were worn than when they were not worn, so we can not conclude that seatbelts made a significant impact on the number of fatalities.
+
+![Seatbelts](Seatbelt_VS_No_Seatbelt.png)
  
 Conclusions and future implications:
 
