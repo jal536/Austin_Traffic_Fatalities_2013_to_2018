@@ -37,13 +37,15 @@ Where do most traffic fatalities occur?
    
  
 
-
+![Gmap](Gmap.ipynb)
 
 
 What time of day do most accidents occur?
 
 •	There is a definite trend towards late evening and early morning, when people are more likely to be either tired or intoxicated, with a peak fatality rate between 2-2:30am (when bars close).
  
+ 
+ ![Times](TimeofFatality.png)
  
 What are the most common vehicles in traffic fatalities?
 
