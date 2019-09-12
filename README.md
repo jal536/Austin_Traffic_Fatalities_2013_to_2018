@@ -49,7 +49,7 @@ What are the most common vehicles in traffic fatalities?
 
 •	Motor vehicles, such as cars or trucks, were the most common, simply because there are more of them on the roads. The specific make and model of the vehicles were not available in our dataset, but it would be interesting to see if that would make a difference.
  
-![Vehicle_types]("../Vehicle_types.png")
+![Vehicle_types]("Vehicle_types.png")
 
 
 What are the main reasons for traffic fatalities?
